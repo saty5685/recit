@@ -1,0 +1,24 @@
+Requirement Analysis - 
+Who are the users - 1. photography vendors, 2. customers
+What actions users can perform-
+Each users will have their profile (register/login)
+customer actions: 
+edit profile
+home page view (recommendations )
+past bookings
+search vendors(along with filters)
+view vendor availability 
+Request for booking-> send booking info (on app, via email)-> booking charge payment
+refund on rejection
+on approval -> send contact details of vendor 
+booking confirmation (on app, via email)
+rate/review vendor
+
+vendor actions: 
+edit profile
+Add/edit menu 
+work and project
+update availability 
+Receive booking request 
+approve/reject request
+pay monthly
